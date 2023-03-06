@@ -1,0 +1,21 @@
+[{
+    "marca" : "Ford",
+    "modelo" : "Falcon",
+    "año" : 1978
+},{
+    "marca" : "Volkswagen",
+    "modelo" : "Gol",
+    "año" : 1997
+},{
+    "marca" : "Mercedes benz",
+    "modelo" : "Compressor",
+    "año" : 2015
+},{
+    "marca" : "Audi",
+    "modelo" : "TT",
+    "año" : 2018
+},{
+    "marca" : "Fiat",
+    "modelo" : "Chronos",
+    "año" : 2023
+}]
